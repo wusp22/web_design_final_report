@@ -1,0 +1,36 @@
+body{
+    background-image: url(img/bg1.jpg);
+    background-size: 100%;
+}
+nav{
+    text-align:center;
+    font-size: 25px;
+    color: rgb(1, 1, 1);
+    text-shadow: -1px -1px 0 rgb(91, 43, 43),1px 1px 0 #5e3f3f; 
+
+}
+a:hover{
+    color: rgb(163, 205, 207);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    background: url(http://i46.photobucket.com/albums/f120/B_blythe/3c4c3a2d.gif) center center  no-repeat;
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+}
+header{
+    line-height: 2.5;
+    width:700px;
+    height: 600px;
+    margin:50px auto;
+    border-radius: 90px ;
+    box-shadow:0 0 9px #000000;
+    text-shadow:1px 1px 1px rgba(0,0,0,0.5);
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+p{
+    font-size: 22px;
+    color: blueviolet;
+    text-align: center;
+}

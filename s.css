@@ -1,0 +1,56 @@
+body{
+    background-size: 100%;
+}
+header{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 1000;
+    width: 500px;
+    height: 80px;
+    margin: 100px auto;
+    border-radius: 40px ;
+    box-shadow:0 0 10px #9f8787;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);        text-shadow: 3px 3px 0 rgb(243, 110, 110);
+}
+main{
+    width:1200px;
+    margin:100px auto;
+    border-radius: 10px ;
+    opacity: 85%;
+    box-shadow:0 0 10px #000000;
+    text-shadow:1px 1px 1px rgba(0,0,0,0.5);
+    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);}
+div{
+    margin: 100px;
+}
+
+.s1,.s2,.s3,.s4,.s5,.s6{
+    border: 0px #fff solid ;
+    overflow: hidden;
+}
+.d1,.d21,.d3,.d41,.d5,.d61{
+    float: left;
+}
+.d11,.d2,.d31,.d4,.d51,.d6{
+    float: right;
+}
+.d11,.d21,.d31,.d41,.d51,.d61{
+    font-size: 30px;
+    text-align: center;
+    width: 450px;
+    padding: 10px,10px,0,0;
+}
+a{
+    font-size: 40px;
+    color: rgb(1, 1, 1);
+    text-shadow: -1px -1px 0 rgb(91, 43, 43),1px 1px 0 #5e3f3f; 
+}
+.h{
+    margin: 490px ;
+    line-height:4; 
+}
+.h:hover,a:hover{
+    color:rgb(201, 170, 170);
+    text-decoration:none;
+}
